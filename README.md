@@ -6,6 +6,7 @@
     <img height="300" src="./output.png">
 </p>
 <p align="center">
-    <span>Output image</span>
     <span>Input image</span>
+    <span> ====== </span>
+    <span>Output image</span>
 </p>
